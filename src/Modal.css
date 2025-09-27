@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   background: skyblue;
+}
+.modal{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    width: 500px;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+img{
+    width: 300px;
+    height: auto;
+   
+}
+button{
+    background: slateblue;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 30px;
+}
